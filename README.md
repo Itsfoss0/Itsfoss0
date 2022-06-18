@@ -6,7 +6,7 @@
 #### - 2022 Goals: Contribute more on open source 
 
 ### Let's Get in Touch
-<img align="bottom" alt="twitter-follow" src="https://img.shields.io/twitter/follow/its_foss?color=%231DA1F2&label=Follow%20%40its_foss%20&logo=twitter&logoColor=%231DA1F2&style=for-the-badge">
+<a href="https://twitter.com/its_foss"><img align="bottom" alt="twitter-follow" src="https://img.shields.io/twitter/follow/its_foss?color=%231DA1F2&label=Follow%20%40its_foss%20&logo=twitter&logoColor=%231DA1F2&style=for-the-badge"></a>
 <br/>
 
 <img align="bottom" alt="ItsFoss's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Itsfoss0&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
