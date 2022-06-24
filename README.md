@@ -1,4 +1,4 @@
-# Hi there! Thanks for Visiting.  I'm It's Foss. 
+## Hi there! Thanks for Visiting.  I'm Ebenezer R.
 
 
 #### - I'm a Computer Science Student, Developer and an Open source contributer!!
