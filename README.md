@@ -3,7 +3,7 @@
 
 #### - I'm a Computer Science Student, Developer and an Open source contributer!!
 #### - Currently learning Javascript and web3 Technologies.
-#### - 2022 Goals: Contribute more on open source 
+#### - 2022 Goals: Contribute more to open source 
 
 ### Let's Get in Touch
 <a href="https://twitter.com/its_foss"><img align="bottom" alt="twitter-follow" src="https://img.shields.io/twitter/follow/its_foss?color=%231DA1F2&label=Follow%20%40its_foss%20&logo=twitter&logoColor=%231DA1F2&style=for-the-badge"></a>
