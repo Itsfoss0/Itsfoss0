@@ -1,8 +1,8 @@
 ## Hi there! Thanks for Visiting.  I'm Ebenezer R.
 
 
-#### - I'm a Computer Science Student, Developer and an Open source contributer!!
-#### - Currently learning Javascript and web3 Technologies.
+#### - I'm a Computer Science Student, Developer and a Bug bounty Hunter 
+#### - Currently learning DevOps and Javascript.
 #### - 2022 Goals: Contribute more to open source 
 
 ### Let's Get in Touch
