@@ -31,9 +31,10 @@
 
 
 <br />
-<br />
+<hr />
 
 ## Currently listening on Spotify 🎧🎧
+
 
 <a href="https://now-playing-spotify-nrffifhuf-itsfoss0.vercel.app/now-playing?open">
 <img  padding-left="0px "src="https://now-playing-spotify-nrffifhuf-itsfoss0.vercel.app/now-playing" width="870" height="104" alt="Now Playing" />`
