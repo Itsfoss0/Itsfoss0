@@ -1,7 +1,7 @@
 ## Hi there! Thanks for Visiting.  I'm Ebenezer R.
 
 
-#### - I'm a Computer Science Student, Developer and a Bug bounty Hunter 
+#### - I'm a Computer Science Student, Developer and a Bug Bounty Hunter 
 #### - Currently learning DevOps and Javascript.
 #### - 2022 Goals: Contribute more to open source 
 
