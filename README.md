@@ -1,9 +1,13 @@
-## Hi there! Thanks for Visiting.  I'm Ebenezer R.
+### Hi there! Thanks for Visiting.  I'm Ebenezer R.
 
-
-#### - I'm a Computer Science Student, Developer and a Bug Bounty Hunter 
-#### - Currently learning DevOps and Javascript.
-#### - 2022 Goals: Contribute more to open source 
+<details>
+<summary> Who am I ? </summary>
+ <ul>
+ <li>I'm a Computer Science Student, Developer and a Bug Bounty Hunter</li> 
+ <li>Currently learning <strong>DevOps</strong> and Javascript.</li>
+ <li>2022 Goals: Contribute more to Open Source</li>
+ </ul>
+</details>
 
 ### Let's Get in Touch
 <a href="https://twitter.com/its_foss"><img align="bottom" alt="twitter-follow" src="https://img.shields.io/twitter/follow/its_foss?color=%231DA1F2&label=Follow%20%40its_foss%20&logo=twitter&logoColor=%231DA1F2&style=for-the-badge"></a>
