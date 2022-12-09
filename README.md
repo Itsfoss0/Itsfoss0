@@ -1,7 +1,7 @@
-### Hi there! Thanks for Visiting.  I'm Ebenezer R.
+### Thanks for Visiting.  I'm Ebenezer R.
 
 <details>
-<summary> Who am I ? </summary>
+<summary> More about me </summary>
  <ul>
  <li>I'm a Computer Science Student, Developer and a Bug Bounty Hunter</li> 
  <li>Currently learning <strong>DevOps</strong> and Javascript.</li>
