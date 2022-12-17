@@ -11,10 +11,6 @@
 
 ### Let's Get in Touch
 <a href="https://twitter.com/its_foss"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a><br>
-<a href="https://www.linkedin.com/in/ebenezer-akhonya-11203323a/"><img alt="linkedin" align="bottom" padding="10x" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="76px" ></a>
-<a href="https://t.me/itsfoss0"><img  align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="25px" /></a>
-<a href="https://wa.me/254741394183"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" width="27px" /> </a>
-<br/>
 
 <img align="bottom" alt="ItsFoss's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Itsfoss0&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
