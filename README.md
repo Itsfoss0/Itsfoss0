@@ -1,4 +1,4 @@
-### Jambo! ✋  Thanks for visiting I'm Ebenezer R.
+### Jambo! ✋  Thanks for visiting, I'm Ebenezer R.
 
 <details>
 <summary> More about me </summary>
