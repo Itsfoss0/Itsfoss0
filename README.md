@@ -1,5 +1,4 @@
-### Jambo! ✋  Thanks for visiting, I'm Ebenezer R.
-Gimme  a screw driver and  I'll build you a rocket
+### Jambo 🤓 I'm Ebenezer R. Thanks for visiting, 
 
 <details>
 <summary> More about me </summary>
