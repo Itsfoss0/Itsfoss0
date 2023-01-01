@@ -2,11 +2,11 @@
 
 <details>
 <summary> More about me </summary>
- <ul>
- <li>I'm a Computer Science Student, Developer and a Bug Bounty Hunter</li> 
- <li>Currently learning <strong>DevOps</strong> and Javascript.</li>
- <li>2023 Goals: Contribute more to Open Source</li>
- </ul>
+
+ * [X] I'm a Computer Science Student, Backend Dev and CyberSec specialist
+ * [X] Currently Learning __DevOps__ and __Django__
+ * [X] 2023 Goals: Contribute more to Open Source
+ * [X] I'm Open to work.  
 </details>
 
 ### Let's Get in Touch
