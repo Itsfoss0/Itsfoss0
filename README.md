@@ -9,8 +9,11 @@
  * [X] I'm Open to work.  
 </details>
 
+
 ### Let's Get in Touch
 <a href="https://twitter.com/its_foss"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a><br>
+
+[![wakatime](https://wakatime.com/badge/user/4e84a943-92ed-4609-9571-c607cf920a4a.svg)](https://wakatime.com/@4e84a943-92ed-4609-9571-c607cf920a4a)
 
 <img align="bottom" alt="ItsFoss's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Itsfoss0&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
