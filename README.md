@@ -2,7 +2,7 @@
 
 ```
 ┌─[ebenezer@github]─[~]
-└──╼ $whoami
+└──╼ $cat iamitsfoss.me
 😎 Backend Engineer
 😎 DevOps Engineer
 😎 Cyber Security Engineer
