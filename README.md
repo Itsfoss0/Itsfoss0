@@ -2,7 +2,7 @@
 
 ```
 ┌─[ebenezer@github]─[~]
-└──╼ $echo "$(whoami)"
+└──╼ whoami
 😎 Backend Engineer
 😎 DevOps Engineer
 😎 Cyber Security Engineer
