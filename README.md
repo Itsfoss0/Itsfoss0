@@ -4,7 +4,7 @@
 ┌─[ebenezer@github]─[~]
 └──╼ whoami
 😎 Backend Engineer
-😎 DevOps Engineer
+😎 SRE
 😎 Cyber Security Engineer
 ┌─[ebenezer@github]─[~]
 └──╼ $
